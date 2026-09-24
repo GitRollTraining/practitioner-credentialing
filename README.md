@@ -4,7 +4,7 @@ Build a reusable Agent Skill that runs a medical staff office's initial-appointm
 
 ## Start
 
-1. Read the [full task](https://app.notion.com/p/3e40b700541e8192a1bef0242ff41fa0): it owns the scope, deliverables and acceptance requirements.
+1. Read the [full task](https://docs.google.com/document/d/1HhmU8Jay09XHDci38hl9ZOX_dMryaSv4aFLCPu1Nk-E/edit): it owns the scope, deliverables and acceptance requirements.
 2. Create your own repository from [this starter](https://github.com/GitRollTraining/practitioner-credentialing) using **Use this template → Create a new repository**, then clone your copy and work there.
 
 ## Supplied files
